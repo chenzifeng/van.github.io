@@ -1,0 +1,102 @@
+{"frames": {
+
+"a.png":
+{
+	"frame": {"x":3,"y":3,"w":63,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":80},
+	"sourceSize": {"w":63,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"b.png":
+{
+	"frame": {"x":93,"y":80,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"c.png":
+{
+	"frame": {"x":70,"y":3,"w":67,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":51},
+	"sourceSize": {"w":67,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"d.png":
+{
+	"frame": {"x":183,"y":3,"w":33,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":40},
+	"sourceSize": {"w":33,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"e.png":
+{
+	"frame": {"x":135,"y":58,"w":38,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":35},
+	"sourceSize": {"w":38,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"f.png":
+{
+	"frame": {"x":177,"y":86,"w":38,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":35},
+	"sourceSize": {"w":38,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"g.png":
+{
+	"frame": {"x":183,"y":47,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"h.png":
+{
+	"frame": {"x":70,"y":58,"w":53,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":18},
+	"sourceSize": {"w":53,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"i.png":
+{
+	"frame": {"x":3,"y":87,"w":86,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":38},
+	"sourceSize": {"w":86,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"j.png":
+{
+	"frame": {"x":141,"y":3,"w":38,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":51},
+	"sourceSize": {"w":38,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"fu5/",
+	"image": "fu5.png",
+	"format": "RGBA8888",
+	"size": {"w":221,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4c0eddaca9f3cb667d8bbae583211ca2:b499ace36f8f590ba611ba5555a6ff99:9155e4bccf02cf1a68f73be0698e9bbe$"
+}
+}

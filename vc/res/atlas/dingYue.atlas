@@ -1,0 +1,57 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":3,"y":1224,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":3,"y":1358,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":3,"y":1492,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4.png":
+{
+	"frame": {"x":483,"y":1224,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"5.png":
+{
+	"frame": {"x":3,"y":3,"w":808,"h":1217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":1217},
+	"sourceSize": {"w":808,"h":1217},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"dingYue/",
+	"image": "dingYue.png",
+	"format": "RGBA8888",
+	"size": {"w":814,"h":1625},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ca86863799b931cf7e1535a7fd3bc58:e9b6519273568541e3e43c244712bbec:86a8a280b3097bb3d6bdba6763545491$"
+}
+}

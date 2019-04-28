@@ -1,0 +1,66 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":3,"y":1661,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":483,"y":1661,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":3,"y":1795,"w":476,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":130},
+	"sourceSize": {"w":476,"h":130},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4.png":
+{
+	"frame": {"x":815,"y":3,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"5.png":
+{
+	"frame": {"x":3,"y":3,"w":808,"h":1217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":1217},
+	"sourceSize": {"w":808,"h":1217},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"9.png":
+{
+	"frame": {"x":3,"y":1224,"w":738,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":433},
+	"sourceSize": {"w":738,"h":433},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"TeQuan/",
+	"image": "TeQuan.png",
+	"format": "RGBA8888",
+	"size": {"w":962,"h":1928},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:525582ed4612b60c7f264891b68a583a:5b367feee9540a12fec8aeed36d769b7:67db3b7b8ea5f25b91103e02fdf72e85$"
+}
+}

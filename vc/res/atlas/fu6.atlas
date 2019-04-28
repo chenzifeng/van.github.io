@@ -1,0 +1,84 @@
+{"frames": {
+
+"a1.png":
+{
+	"frame": {"x":3,"y":100,"w":63,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":80},
+	"sourceSize": {"w":63,"h":80},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a2.png":
+{
+	"frame": {"x":70,"y":178,"w":33,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":33},
+	"sourceSize": {"w":33,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a3.png":
+{
+	"frame": {"x":75,"y":45,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a4.png":
+{
+	"frame": {"x":3,"y":45,"w":68,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":51},
+	"sourceSize": {"w":68,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a5.png":
+{
+	"frame": {"x":75,"y":84,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a6.png":
+{
+	"frame": {"x":3,"y":184,"w":53,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":18},
+	"sourceSize": {"w":53,"h":18},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a7.png":
+{
+	"frame": {"x":3,"y":3,"w":86,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":38},
+	"sourceSize": {"w":86,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"a8.png":
+{
+	"frame": {"x":70,"y":123,"w":46,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":51},
+	"sourceSize": {"w":46,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"fu6/",
+	"image": "fu6.png",
+	"format": "RGBA8888",
+	"size": {"w":119,"h":214},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bfb336f85acffcb1eac49d347e577112:0c9324ceddce7a09cbff28dd3f51b9c2:43202005ab1a42eb8196fd83d37d29fd$"
+}
+}

@@ -1,0 +1,102 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":673,"y":517,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":673,"y":597,"w":54,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":55},
+	"sourceSize": {"w":54,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":3,"y":3,"w":798,"h":337},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":798,"h":337},
+	"sourceSize": {"w":798,"h":337},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4.png":
+{
+	"frame": {"x":770,"y":344,"w":17,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":51},
+	"sourceSize": {"w":17,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"5.png":
+{
+	"frame": {"x":91,"y":651,"w":308,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":308,"h":13},
+	"sourceSize": {"w":308,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"6.png":
+{
+	"frame": {"x":673,"y":344,"w":93,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":91},
+	"sourceSize": {"w":93,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"7.png":
+{
+	"frame": {"x":3,"y":651,"w":84,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":35},
+	"sourceSize": {"w":84,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"8.png":
+{
+	"frame": {"x":673,"y":439,"w":77,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":74},
+	"sourceSize": {"w":77,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"9.png":
+{
+	"frame": {"x":731,"y":597,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10.png":
+{
+	"frame": {"x":3,"y":344,"w":666,"h":303},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":666,"h":303},
+	"sourceSize": {"w":666,"h":303},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"logo/",
+	"image": "logo.png",
+	"format": "RGBA8888",
+	"size": {"w":804,"h":689},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a02ad5d56a9d4d7223d9eadc463e7fa4:0c2e6bbc752ea5203e4f7e9867fe800a:d577f4e4cbda9c3edfe018d5b150d785$"
+}
+}

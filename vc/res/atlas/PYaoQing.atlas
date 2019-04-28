@@ -1,0 +1,57 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":3,"y":1116,"w":750,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":750,"h":134},
+	"sourceSize": {"w":750,"h":134},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":757,"y":1116,"w":104,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":104},
+	"sourceSize": {"w":104,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":757,"y":1224,"w":92,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":92},
+	"sourceSize": {"w":92,"h":92},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bg.png":
+{
+	"frame": {"x":3,"y":3,"w":825,"h":1109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":825,"h":1109},
+	"sourceSize": {"w":825,"h":1109},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"black.png":
+{
+	"frame": {"x":3,"y":1254,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"PYaoQing/",
+	"image": "PYaoQing.png",
+	"format": "RGBA8888",
+	"size": {"w":864,"h":1319},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d9f7c6e252486321afd0e1705d816cf5:569fd5b6c1c6c456e28af5fd8bb7f438:9f3b1c04b80012c49c3b370647619e47$"
+}
+}

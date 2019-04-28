@@ -1,0 +1,39 @@
+{"frames": {
+
+"点击-拷贝.png":
+{
+	"frame": {"x":3,"y":3,"w":204,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":190},
+	"sourceSize": {"w":204,"h":190},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"白色.png":
+{
+	"frame": {"x":3,"y":197,"w":178,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":164},
+	"sourceSize": {"w":178,"h":164},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"选中.png":
+{
+	"frame": {"x":3,"y":197,"w":178,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":164},
+	"sourceSize": {"w":178,"h":164},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"select/",
+	"image": "select.png",
+	"format": "RGBA8888",
+	"size": {"w":210,"h":364},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c6da95ca3f3a7a49e3a2536de86cb67:21ec208985f96d6182bdfd192c531749:f5ae24ac706468b617bd014a41f40ca5$"
+}
+}

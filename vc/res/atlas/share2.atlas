@@ -1,0 +1,39 @@
+{"frames": {
+
+"black.png":
+{
+	"frame": {"x":406,"y":675,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btnS.png":
+{
+	"frame": {"x":3,"y":675,"w":399,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":134},
+	"sourceSize": {"w":399,"h":134},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"win.png":
+{
+	"frame": {"x":3,"y":3,"w":813,"h":668},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":813,"h":668},
+	"sourceSize": {"w":813,"h":668},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"share2/",
+	"image": "share2.png",
+	"format": "RGBA8888",
+	"size": {"w":819,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3100b8460ae0d4ec661441475869f4e2:ad013564f8aab89842541d046326efcc:98455522aa73cb5187e2ac5c33fccb8a$"
+}
+}

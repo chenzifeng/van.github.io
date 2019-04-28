@@ -1,0 +1,30 @@
+{"frames": {
+
+"bb.png":
+{
+	"frame": {"x":3,"y":3,"w":398,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":110},
+	"sourceSize": {"w":398,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"black.png":
+{
+	"frame": {"x":405,"y":3,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"tipBox/",
+	"image": "tipBox.png",
+	"format": "RGBA8888",
+	"size": {"w":410,"h":116},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dfe70df0387230ad5a0792d5a515179a:3f54e3d81a758f6447f9ecc5c1ef11b9:d9df8359cdf10e4e39cc14cc29fe7d61$"
+}
+}

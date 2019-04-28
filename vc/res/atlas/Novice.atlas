@@ -1,0 +1,30 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":3,"y":3,"w":183,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":104},
+	"sourceSize": {"w":183,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":190,"y":3,"w":104,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":104},
+	"sourceSize": {"w":104,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"Novice/",
+	"image": "Novice.png",
+	"format": "RGBA8888",
+	"size": {"w":297,"h":110},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:da772de6d26aa7c5943249d73e695652:c40665b20af15694899f11fc3654544b:d5566205c4ccc260201228f68b70e7af$"
+}
+}

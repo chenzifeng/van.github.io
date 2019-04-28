@@ -1,0 +1,102 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":3,"y":3,"w":82,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":105},
+	"sourceSize": {"w":82,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":89,"y":3,"w":82,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":105},
+	"sourceSize": {"w":82,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":175,"y":3,"w":82,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":105},
+	"sourceSize": {"w":82,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4.png":
+{
+	"frame": {"x":261,"y":3,"w":82,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":105},
+	"sourceSize": {"w":82,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"5.png":
+{
+	"frame": {"x":518,"y":73,"w":43,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":45},
+	"sourceSize": {"w":43,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"6.png":
+{
+	"frame": {"x":469,"y":73,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"9.png":
+{
+	"frame": {"x":347,"y":3,"w":152,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":45},
+	"sourceSize": {"w":152,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"arr.png":
+{
+	"frame": {"x":503,"y":3,"w":63,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":66},
+	"sourceSize": {"w":63,"h":66},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"black.png":
+{
+	"frame": {"x":3,"y":112,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":2},
+	"sourceSize": {"w":2,"h":2},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"zz1.png":
+{
+	"frame": {"x":347,"y":52,"w":118,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":58},
+	"sourceSize": {"w":118,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"prefix":"paiHang/",
+	"image": "paiHang.png",
+	"format": "RGBA8888",
+	"size": {"w":569,"h":121},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5e7898ad49ec6bee8e21dd3bc5f45db7:65c6fc6d7f58a78edf819c83617ee929:1d02c99835f409a3f05eb4c0dba2365e$"
+}
+}
